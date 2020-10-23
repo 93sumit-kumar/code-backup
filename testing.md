@@ -1,8 +1,8 @@
 
 # fhjfj
 ## gxhcfhj
-
-
+```this is for image upload
+![1](img_path)
 ```php
 hdfhd
 ```
