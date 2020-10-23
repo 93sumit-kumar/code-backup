@@ -1,8 +1,8 @@
 
 # fhjfj
 ## gxhcfhj
-```this is for image upload
-![1](img_path)
+
+![1](https://github.com/93sumit-kumar/code-backup/blob/main/img/Screenshot%20(1).png)
 ```php
 hdfhd
 ```
